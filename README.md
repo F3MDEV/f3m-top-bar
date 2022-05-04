@@ -489,8 +489,7 @@ ReactDOM.render(<App />, document.querySelector("#app"));
             true
         </span>
       </td>
-    </tr>
-    
+    </tr>  
     <tr>
       <td>
         <span>healthiPatientNickname</span>
@@ -511,35 +510,6 @@ ReactDOM.render(<App />, document.querySelector("#app"));
         </span>
       </td>
     </tr>
-    
-    
-    
-    
-    
-    <tr>
-      <td>
-        <span>healthiPatientNickname</span>
-      </td>
-      <td>
-        <div>
-          <span>Insert patient nickname.</span>
-        </div>
-        <div>
-          <div>
-            <span>string</span>
-          </div>
-        </div>
-      </td>
-      <td>
-        <span>
-            'Zé Andrade'
-        </span>
-      </td>
-    </tr>
-    
-    
-    
-    
     <tr>
       <td>
         <span>patientBadges</span>
