@@ -24,12 +24,12 @@
 </div>
 
 ## Installation
-DEPREACTED
-F3M-Sticky-Top-Bar is available as an [npm package](npm i f3m-top-bar).
+
+F3M-Top-Bar is available as an [npm package](npm i f3m-top-bar).
 
 ```sh
 // with npm
-npm i f3m-sticky-top-bar
+npm i f3m-top-bar
 
 ```
 
@@ -39,10 +39,10 @@ Here is a quick example to get you started, **it's all you need**:
 
 ```tsx
 import * as React from "react";
-import F3MStickyTopBar from "f3m-sticky-top-bar";
+import F3MTopBar from "f3m-top-bar";
 
 function App() {
-  return <F3MStickyTopBar keyArea="Link2"></F3MStickyTopBar>;
+  return <F3MTopBar keyArea="Link2"></F3MTopBar>;
 }
 
 ReactDOM.render(<App />, document.querySelector("#app"));
